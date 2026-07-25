@@ -8,6 +8,9 @@
 
 ### [from-gutenberg-to-rstudio](https://rasundsbak.github.io/from-gutenberg-to-rstudio/Scrape_gutenberg.html)
 
+## internal projects
+### [ki-paa-vm](https://github.com/rasundsbak/ki-paa-vm-2026/blob/main/README.md)
+
 ## Former projects
 ### [Run large language models (LLM) through Educloud UiO](https://llm-course-eng.readthedocs.io/en/latest/)
 
