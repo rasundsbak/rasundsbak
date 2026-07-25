@@ -1,9 +1,12 @@
-### Hi there 👋👋
+# My introduction 👋👋
 
-- I am starting up a project on web scraping of parliamentary papers, and I want to connect with others who are doing the same.
-- Finally i have downloaded GitHub Desktop, and that makes me productive.
-- I have earlier been working on documentation on a workshop for AI models.
+- I am working on several projects regarding AI with R and Python languages.
+- In our team at UiO, we focus on open science. We want AI models to be availiable and developed by and for the scientific communities.
 - I’m a Carpentry Instructor and a Political Scientist working in Oslo University Library.
-- When I’m not working in the office, I am a Digital Detox enthusiast.
-- I identify with the Slow Cooking and Slow Reading Movements.
-- I run in the forest, when I want to have a good time.
+
+## list of Current projects
+
+### from-gutenberg-to-rstudio
+
+Read my documentation on Webpages for [from-gutenberg-to-rstudio](https://rasundsbak.github.io/from-gutenberg-to-rstudio/Scrape_gutenberg.html)
+
