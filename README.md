@@ -6,7 +6,5 @@
 
 ## list of Current projects
 
-### from-gutenberg-to-rstudio
-
-Read my documentation on Webpages for [from-gutenberg-to-rstudio](https://rasundsbak.github.io/from-gutenberg-to-rstudio/Scrape_gutenberg.html)
+### [from-gutenberg-to-rstudio](https://rasundsbak.github.io/from-gutenberg-to-rstudio/Scrape_gutenberg.html)
 
